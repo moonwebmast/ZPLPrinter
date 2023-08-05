@@ -1,5 +1,5 @@
 # ZPL Printer Simulation Tools
-C# 开发的ZPL虚拟打印，方便调试ZPL串口打印、ZPL模板编辑。
+C# .Net5 开发的ZPL虚拟打印，方便调试ZPL串口打印、ZPL模板编辑。
 ZPL打印程序开发、ZPL模板编写调试必备工具。
 
 * 使用了 ETO.Forms 因此此工具支持MACOS、Linux、Windows 
