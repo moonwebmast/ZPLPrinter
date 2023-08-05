@@ -1,0 +1,1 @@
+﻿sudo chmod a+x ./ZPLPrinter.desktop;sudo chmod a+s ./ZPLPrinter.desktop

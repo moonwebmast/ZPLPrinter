@@ -1,0 +1,20 @@
+[Desktop Entry]
+#类型：应用程序
+Type=Application
+Version=1.0
+#桌面快捷方式的名字
+Name=丝束批量打码
+#该应用程序的功能说明
+Comment=通过导入Excel打码任务，批量打印丝束包标签 
+
+Path=/opt/ZPLPrinter
+
+Exec=dotnet /opt/ZPLPrinter/ZPLPrinter.Gtk.dll
+
+Icon=/opt/ZPLPrinter/app.ico
+
+Terminal=false
+
+Categories=Tools
+
+
