@@ -2,8 +2,8 @@
 C# 开发的ZPL虚拟打印，方便调试ZPL串口打印、ZPL模板编辑。
 ZPL打印程序开发、ZPL模板编写调试必备工具。
 
-*使用了 ETO.Forms 因此此工具支持MACOS、Linux、Windows 
-*ZPL解析部分使用了商用插件 Neodynamic.SDK.ZPLPrinter，因此免费版本上有试用水印 
+* 使用了 ETO.Forms 因此此工具支持MACOS、Linux、Windows 
+* ZPL解析部分使用了商用插件 Neodynamic.SDK.ZPLPrinter，因此免费版本上有试用水印 
 
 ##功能清单：
 1. 支持中文、支持添加本地字体文件；
