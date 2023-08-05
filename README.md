@@ -15,9 +15,9 @@ ZPL打印程序开发、ZPL模板编写调试必备工具。
 7. COM接口模拟了~HS状态响应，为开发模拟打印状态提供模拟环境；
 
 ## 下载连接
-+ [Windows 版本](https://github.com/moonwebmast/ZPLPrinter/blob/master/Publish/Windows/ZPLPrinter.zip?raw=true)  
-+ [MacOS 版本](https://github.com/moonwebmast/ZPLPrinter/blob/master/Publish/MacOS/ZPLPrinter.Mac.zip?raw=true)  
-+ [LinuxGtk 版本](https://github.com/moonwebmast/ZPLPrinter/blob/master/Publish/LinuxGtk/ZPLPrinter.zip?raw=true) 
++ [Windows 版本](https://github.com/moonwebmast/ZPLPrinter/blob/master/Publish/Windows/ZPLPrinter.zip)  
++ [MacOS 版本](https://github.com/moonwebmast/ZPLPrinter/blob/master/Publish/MacOS/ZPLPrinter.Mac.zip)  
++ [LinuxGtk 版本](https://github.com/moonwebmast/ZPLPrinter/blob/master/Publish/LinuxGtk/ZPLPrinter.zip) 
 
 ## 首页
 ![image](https://github.com/moonwebmast/ZPLPrinter/blob/master/Images/MainForm.png?raw=true)
