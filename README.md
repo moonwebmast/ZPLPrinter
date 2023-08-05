@@ -20,8 +20,6 @@ ZPL执行插件使用了商用插件 Neodynamic.SDK.ZPLPrinter，因此免费版
 ## 添加字体
 ![image](https://github.com/moonwebmast/ZPLPrinter/blob/master/Images/uploadFont.png?raw=true)
 
-## 添加字体
-![image](https://github.com/moonwebmast/ZPLPrinter/blob/master/Images/uploadFont.png?raw=true)
-
 ## COM接口模拟设置
 ![image](https://github.com/moonwebmast/ZPLPrinter/blob/master/Images/setting.png?raw=true)
+
