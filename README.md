@@ -20,10 +20,10 @@ ZPL打印程序开发、ZPL模板编写调试必备工具。
 + [LinuxGtk 版本](https://github.com/moonwebmast/ZPLPrinter/blob/master/Publish/LinuxGtk/ZPLPrinter.zip) 
 
 ## 首页
-![image](https://upload-images.jianshu.io/upload_images/25056886-9b3f4f630940371a.png?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp)
+![image](https://upload-images.jianshu.io/upload_images/25056886-9b3f4f630940371a.png)
 
 ## 添加字体
-![image](https://upload-images.jianshu.io/upload_images/25056886-ac29ba2e43f348cd.png?imageMogr2/auto-orient/strip|imageView2/2/w/701/format/webp)
+![image](https://upload-images.jianshu.io/upload_images/25056886-ac29ba2e43f348cd.png)
 
 ## COM接口模拟设置
-![image](https://upload-images.jianshu.io/upload_images/25056886-334bc19043270f5f.png?imageMogr2/auto-orient/strip|imageView2/2/w/711/format/webp)
+![image](https://upload-images.jianshu.io/upload_images/25056886-334bc19043270f5f.png)
